@@ -5,5 +5,6 @@ Example Code untuk menggunakan vuex di nuxt.js
 Default Nuxt
 ```
 
+cek artikle di blog saya [soefyansyah](https://soefyansyah.com/blog/belajar-vuex-state-management-pada-nuxtjs).
 
-cek artikle di blog saya [soefyansyah](https://soefyansyah.com).
+
